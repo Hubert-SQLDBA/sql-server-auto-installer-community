@@ -21,7 +21,7 @@ For production environments, I created the **SQL Server Pro Admin Kit** – a ro
 | **Performance Tuning** | ❌ Standard MS Defaults | ✅ **Auto-Calculates MaxDOP & TempDB** |
 | **Bonus Tools** | ❌ None | ✅ **RAM Balancer & Auto-Tuner** |
 
-👉 **[Get the PRO Admin Kit here ($29)](https://hubert-sql.lemonsqueezy.com/checkout/buy/ae392883-fec5-430e-86bd-f6ee5872dc53)**
+👉 **[Get the PRO Admin Kit here ($49)](https://hubert-sql.lemonsqueezy.com/checkout/buy/ae392883-fec5-430e-86bd-f6ee5872dc53)**
 
 ---
 
